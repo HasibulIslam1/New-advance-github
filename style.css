@@ -1,4 +1,4 @@
-p{
+.parta{
     background-color: aqua;
     font-size: 20px;
     font-weight: 500;
@@ -6,5 +6,8 @@ p{
 }
 ol{
     color: red;
-    
+
+}
+h3{
+    font-weight: 400;
 }
